@@ -1,44 +1,17 @@
 [
   {
-    "orderId": "ORD1001",
-    "orderDate": "2026-02-10T10:15:30Z",
-    "customerId": "CUST001",
-    "customerName": "John Smith",
-    "email": "john.smith@email.com",
-    "productId": "P100",
-    "productName": "Laptop",
-    "quantity": 1,
-    "unitPrice": 1200.00,
-    "totalAmount": 1200.00,
-    "currency": "USD",
-    "orderStatus": "Shipped"
+    "OrderID": 1001,
+    "CustomerID": "C001",
+    "OrderDate": "2024-05-01T12:00:00Z",
+    "UpdatedDate": "2024-05-05T12:00:00Z",
+    "Amount": 150.5
   },
   {
-    "orderId": "ORD1002",
-    "orderDate": "2026-02-09T14:45:10Z",
-    "customerId": "CUST002",
-    "customerName": "Emily Davis",
-    "email": "emily.davis@email.com",
-    "productId": "P300",
-    "productName": "Smartphone",
-    "quantity": 1,
-    "unitPrice": 800.00,
-    "totalAmount": 800.00,
-    "currency": "USD",
-    "orderStatus": "Processing"
-  },
-  {
-    "orderId": "ORD1003",
-    "orderDate": "2026-02-08T09:20:00Z",
-    "customerId": "CUST003",
-    "customerName": "Michael Brown",
-    "email": "michael.brown@email.com",
-    "productId": "P400",
-    "productName": "Headphones",
-    "quantity": 2,
-    "unitPrice": 150.00,
-    "totalAmount": 300.00,
-    "currency": "USD",
-    "orderStatus": "Delivered"
+    "OrderID": 1002,
+    "CustomerID": "C002",
+    "OrderDate": "2024-05-03T15:00:00Z",
+    "UpdatedDate": "2024-05-07T10:00:00Z",
+    "Amount": 230.0
   }
 ]
+
